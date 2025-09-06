@@ -1,0 +1,2 @@
+{"timestamp":"2024-06-01T10:00:00Z","level":"info","message":"User logged in"}
+{"timestamp":"2024-06-02T12:30:00Z","level":"error","message":"API request failed"}
